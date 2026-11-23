@@ -1,0 +1,17 @@
+{
+  "name": "takealot-playstation-5",
+  "version": "1.0.0",
+  "description": "Takealot South Africa PlayStation 5 + GTA 6 Storefront & Automated Order Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "takealot",
+    "washing-machine",
+    "samsung",
+    "ecommerce"
+  ],
+  "author": "Takealot Online",
+  "license": "ISC"
+}

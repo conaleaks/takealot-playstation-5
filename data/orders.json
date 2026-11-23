@@ -1,0 +1,23 @@
+{
+  "TAK-55-994812": {
+    "order_id": "TAK-55-994812",
+    "tracking_code": "TAK-55-994812",
+    "courier": "Takealot Fast Delivery Team",
+    "waybill": "WB-ZAF-119318",
+    "status": "in_transit",
+    "status_text": "Out for Delivery",
+    "status_step": 3,
+    "customer_name": "Valued Customer",
+    "customer_email": "customer@takealot.co.za",
+    "customer_phone": "+27 82 555 1234",
+    "delivery_address": "Cape Town & Surrounds, South Africa",
+    "product_title": "Sony PlayStation 5 Slim 1TB Console + Grand Theft Auto VI Bundle",
+    "product_image": "https://iili.io/oKDz7M7.jpg",
+    "screen_size": "1TB (PS5 Slim)",
+    "quantity": 1,
+    "amount": 3299,
+    "currency": "ZAR",
+    "created_at": "23 Nov 2026",
+    "estimated_delivery": "2 - 4 Business Days"
+  }
+}
